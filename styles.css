@@ -64,4 +64,17 @@ button {
     border-radius: 8px; 
 }
 
+.secundario {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.profile-pic {
+    width: 100px; /* Ajusta el tamaño de la imagen según sea necesario */
+    height: 130px; /* Ajusta el tamaño de la imagen según sea necesario */
+    margin-right: 10px;
+}
+
+
 
